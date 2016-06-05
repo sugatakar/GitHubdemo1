@@ -1,0 +1,1 @@
+java -cp bin;external_jar/* org.testng.TestNG testng.xml
